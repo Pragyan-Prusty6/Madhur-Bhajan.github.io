@@ -63,7 +63,7 @@ header a:hover{
    
 }
 .banner{
-    background:url(/images/galaxy2.jpg);
+    background-image: linear-gradient(to right top, #a80084, #f11f6b, #ff6a43, #ffb600, #ffff00);
     background-size: cover;
     background-position: bottom;
     color: white;
