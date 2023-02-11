@@ -63,7 +63,7 @@ header a:hover{
    
 }
 .banner{
-    background:url(images/galaxy2.jpg);
+    background:url(/images/galaxy2.jpg);
     background-size: cover;
     background-position: bottom;
     color: white;
